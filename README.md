@@ -24,4 +24,4 @@
 <div/>
   
 ![Snake animation](https://github.com/Strongerx/Strongerx/blob/output/github-contribution-grid-snake.svg)
-<img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-java-coding-and-development-flat-flat-juicy-fish.png"/>
+
